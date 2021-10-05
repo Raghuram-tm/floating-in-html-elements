@@ -1,0 +1,9 @@
+.artical-image{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 16px;
+}
+#img2{
+    float: right;
+}
